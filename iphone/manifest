@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: appstate
+author: Steven van Loef
+license: Specify your license
+copyright: Copyright (c) 2016 by Steven van Loef
+
+# these should not be edited
+name: appstate
+moduleid: com.yellowdice.appstate
+guid: 6edd3922-b833-4a7d-9207-bd4fa9877f9c
+platform: iphone
+minsdk: 5.1.1.GA
